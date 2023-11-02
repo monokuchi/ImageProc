@@ -1,0 +1,9 @@
+
+# Visual Studio
+.vscode
+
+# Build directory
+build
+
+# Images directory
+images
